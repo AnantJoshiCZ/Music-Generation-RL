@@ -26,3 +26,6 @@ Here are a few samples of what this can generate:
 
 Use the colab notebook to play around with the settings and generate your own tunes! To learn more about the libraries used and how to change the settings, please visit the [Magenta Project's Github Page](https://github.com/magenta). 
 
+
+If you find any problems within the project, please create an issue.
+
