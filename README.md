@@ -14,6 +14,9 @@ Music Generation specifically is a task that machine learning should be good at 
 Here are a few samples of what this can genrate:
 
 
+### Hopeful Day (Sample 5) 
+[!["Hopeful Day" (Sample 5)](https://img.youtube.com/vi/6haIZ870Sco/maxresdefault.jpg)](https://youtu.be/6haIZ870Sco)
+
 
 
 
